@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "count": 10,
+  "amount": 50000,
+  "criteria": {
+    "userType": "REGULAR",
+    "channel": "UPI",
+    "currency": "INR",
+    "country": "IN"
+  },
+  "timeUnit": "MINUTES",
+  "duration": 60
+}
